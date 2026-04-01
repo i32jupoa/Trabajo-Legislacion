@@ -1,4 +1,4 @@
-# LEGISLACIÓN Grupo 7
+# LEGISLACIÓN GRUPO 7
 Álvaro Jurado Pozo (i32jupoa@uco.es)
 
 Ádam Gálvez Redondo (i32garea@uco.es)
